@@ -1,0 +1,2 @@
+# Hostingbot
+Host bot
